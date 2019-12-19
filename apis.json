@@ -1,0 +1,68 @@
+{
+    "name": "Brigham Young University",
+    "description": "Official page for Brigham Young University.   Undergraduate applications: https:\/\/www.lds.org\/church-education\/college-application?lang=eng  Graduate program info: http:\/\/graduatestudies.byu.edu",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1510-brigham-young-university.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "profile",
+        "universities",
+        "university leader",
+        "university portal"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/brigham-young-university\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Brigham Young University",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1510-brigham-young-university.jpg",
+            "humanURL": "https:\/\/byu.edu",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/brigham-young-university-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/brigham-young-university-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "About",
+            "url": "https:\/\/www.byu.edu\/about"
+        },
+        {
+            "type": "Blog",
+            "url": "https:\/\/developer.byu.edu\/blog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/brigham-young-university"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developer.byu.edu"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/developer.byu.edu\/docs"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/BYU"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/byu.edu"
+        }
+    ]
+}
